@@ -6,7 +6,7 @@ A simple, cross‑platform setup to get you ready for Angular development fast. 
 
 - Node.js (LTS)
 - npm (latest)
-- Angular CLI v20 (global)
+- Angular CLI (global)
 
 Supported platforms:
 - Windows 10/11 (PowerShell)
